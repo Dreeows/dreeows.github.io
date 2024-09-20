@@ -1,3 +1,3 @@
 # Portfolio
 
-Placeholder description
+Placeholder description.
